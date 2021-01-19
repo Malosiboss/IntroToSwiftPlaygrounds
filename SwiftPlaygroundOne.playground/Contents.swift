@@ -34,5 +34,5 @@ var variablefour  = variableone + variableTwo + variableThree
 print(variablefour)
 
 // adding spaces to following strings can add spaces when printing
-
+//“Completed Swift Playgrounds #1”
 
