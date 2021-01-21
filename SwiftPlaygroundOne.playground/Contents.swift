@@ -36,3 +36,25 @@ print(variablefour)
 // adding spaces to following strings can add spaces when printing
 //“Completed Swift Playgrounds #1”
 
+// Assignment #2 Introduction to True and False 1.21.21
+
+var appState = false
+
+print(appState)
+
+//Declared and assigned to variable of typr int
+var numberOne = 1
+var numberTwo = 9
+
+
+//This is an example of a false
+var comparison = numberOne > numberTwo
+
+print(comparison)
+
+var variableAnimalOne = "Dogs"
+var variableAnimalTwo = "Cats"
+
+var (comparison) = variableAnimalOne == variableAnimalTwo
+
+print(comparison)
