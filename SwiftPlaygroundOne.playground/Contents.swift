@@ -24,7 +24,6 @@ print(myThirdVariable)
 var  variableone: String
 
 variableone = "I love Animals"
-
 var variableTwo = ", Dogs are my favorite."
 
 var variableThree = " I own Two Dogs. "
@@ -42,15 +41,16 @@ var appState = false
 
 print(appState)
 
+
 //Declared and assigned to variable of typr int
 var numberOne = 1
 var numberTwo = 9
 
 
 //This is an example of a false
-var comparison = numberOne > numberTwo
+var numberThree = numberOne > numberTwo
 
-print(comparison)
+print(numberThree)
 
 var variableAnimalOne = "Dogs"
 var variableAnimalTwo = "Cats"
